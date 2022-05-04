@@ -2,7 +2,7 @@
 
 ---
 
-This analysis is an attempt to express a correlation of the police's effectiveness amongst given racial and or ethnical communities in Black, Indigenous, Latinx, and Asian. My hypothesis is that this analysis may show more skewed data via reported higher crime rates in poorer, under-represented communities in comparison to white counterparts' community as their seems to be a higher tendency to have a higher median income and more privileges than others. 
+This analysis is an attempt to express a correlation of the police's effectiveness amongst given racially and or ethnically Black, Indigenous, Latinx, and Asian communities in Indianapolis, Indiana. Upon viewing the available datasets, my hypothesis is that there is a strong correlation between number of calls in poorer communities, and a strong correlation between number of calls and filed complaints. 
 
 ---
 
